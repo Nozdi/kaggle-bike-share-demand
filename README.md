@@ -8,7 +8,7 @@ Solution is split into 4 parts:
 * Tuning parameters using Random Forest & Gradient Boosting Regressor: parameter_tuning.py
 * Generating sample submission: generate_submission.py
 
-Best model is getting about RMSLE on kaggle website
+Best model is getting about ~0.445 RMSLE on kaggle website
 
 Future work:
 * try more models & parameters (No free lunch theorem)
